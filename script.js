@@ -58,3 +58,5 @@ function powerof2(num) {
 }
 
 powerof2(40)
+
+//https://github.com/veiled-coder/Javascript-Operators-Control-Flow-Javascript-Operators-Control-Flow
