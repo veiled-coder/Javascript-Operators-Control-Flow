@@ -56,4 +56,4 @@ Using if…else conditional statement, write a program that will help Bolatito d
 
 ``` “The number 64 is the power of 2 nearest to 50.” ```
 
-###### CHECK  THE SCRIPT.JS FILE FOR SOLUTION
+##### CHECK  THE SCRIPT.JS FILE FOR SOLUTION
