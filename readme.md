@@ -55,3 +55,5 @@ Using if…else conditional statement, write a program that will help Bolatito d
 - If num = 50, pwr = 64.. Then you log to your console in this format:
 
 ``` “The number 64 is the power of 2 nearest to 50.” ```
+
+###### ANS IN THE SCRIPT.JS FILE
