@@ -48,10 +48,10 @@ Using if…else conditional statement, write a program that will help Bolatito d
 ``` “The number (pwr) is the power of 2 nearest to (num).” ```
 
 - If there are two candidate values, display the smaller one. For example, 2 and 4 are both the powers of 2 nearest to 3. The function should display 2 because it’s smaller than 4.
-    * For example, If num = 40, pwr = 32. Then you log to your console in this format:
+    * ## For example, If num = 40, pwr = 32. Then you log to your console in this format:
 
 ``` “The number 32 is the power of 2 nearest to 40.” ```
 
-    * If num = 50, pwr = 64.. Then you log to your console in this format:
+- #If num = 50, pwr = 64.. Then you log to your console in this format:
 
 ``` “The number 64 is the power of 2 nearest to 50.” ```
