@@ -35,7 +35,7 @@ Bolatito just got admitted to Greenfield High School as an Arts student. To comm
 
 Using if…else conditional statement, write a program that will help Bolatito determine the subjects she will be taking for the session using her class group. Also, in the case of an invalid class group, your output should be the General subjects. 
 
-- CHECK THE SCRIPT.JS FILE FOR THE CODE SOLUTION
+##### CHECK THE SCRIPT.JS FILE FOR THE CODE SOLUTION
 
 ## 4. What is the result when the following program is executed?
 
@@ -56,4 +56,4 @@ Using if…else conditional statement, write a program that will help Bolatito d
 
 ``` “The number 64 is the power of 2 nearest to 50.” ```
 
-###### ANS IN THE SCRIPT.JS FILE
+###### CHECK  THE SCRIPT.JS FILE FOR SOLUTION
